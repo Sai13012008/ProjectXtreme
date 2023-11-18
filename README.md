@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 📫 How to reach me **amritanshu@duck.com**
+
 - ⚡ Fun fact **I am nobody.**
 
 <h3 align="left">Connect with me:</h3>
